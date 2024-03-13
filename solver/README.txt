@@ -1,0 +1,1 @@
+To run type the command "ros2 run group21 runner --ros-args --params-file src/group21/config/params.yaml" after launching the maze.
